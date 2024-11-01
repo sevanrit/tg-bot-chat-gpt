@@ -1,0 +1,31 @@
+{
+  "text": {
+    "waitAnswer": "⌛",
+    "start_msg": "Cześć, nazywam się Alex! Jestem Twoim osobistym asystentem z zespołu Sales Solution. Mogę odpowiedzieć na Twoje pytania i udzielić informacji na temat naszych usług. Mogę przedstawić krótki opis każdej usługi, podać przykłady sukcesów naszych klientów i opowiedzieć o naszym podejściu do pracy. Dodatkowo, jeśli masz konkretne potrzeby lub problemy, mogę pomóc Ci określić, które z naszych usług mogą być najbardziej przydatne dla Twojej firmy. Jednakże, w przypadku bardziej skomplikowanych pytań lub szczegółowych konsultacji, mogę polecić skontaktowanie się z naszym menedżerem w celu uzyskania dodatkowych informacji.\n\nJak masz na imię?",
+    "choose_lang": "Wybierz język!",
+    "choose_lang_ok": "Język ustawiony na rosyjski!",
+    "restart": "Zaktualizowano kontekst!",
+    "noTokens": "Brak tokenów",
+    "largeContext": "Zaktualizuj kontekst!",
+    "noName": "Nie ma problemu, możesz pozostać incognito. Czy mógłbyś krótko powiedzieć, co cię tu przyniosło?",
+    "tellAboutService": "Które konkretne usługi cię interesują?\n",
+    "freeAdvice": "Zawsze do usług, zapytaj mnie o cokolwiek:",
+    "writeMe": "Miło mi cię poznać, {}! Powiedz mi w kilku słowach, co cię tu przyniosło? \n",
+    "getName": "Podaj swoje imię:",
+    "getServices": "Napisz, które usługi cię interesują:"
+  },
+  "buts": {
+    "noName": "Nie chcę podawać mojego imienia",
+    "tellAboutService": "Opowiedz mi o swoich usługach",
+    "freeAdvice": "Chcę darmową poradę!",
+    "writeMe": "Napisz imię",
+    "writeProblem": "Chciałem zapytać o... [opisz problem]",
+    "digitalMarketing": "Marketing cyfrowy",
+    "contentMarketing": "Marketing treści",
+    "webAndMobile": "Rozwój stron internetowych lub mobilnych",
+    "resAndStrats": "Badania i strategie",
+    "otherServices": "Inne usługi [określ]",
+    "idk": "Nie wiem",
+    "mainMenu": "Wróć"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "text": {
+    "waitAnswer": "⌛",
+    "start_msg": "Hello, my name is Alex! I'm your personal assistant from the Sales Solution team. I can answer your questions and provide information about our services. I can give a brief description of each service, provide examples of our clients' successes, and talk about our approach to work. Additionally, if you have specific needs or problems, I can help you determine which of our services may be most useful for your business. However, for complex questions or detailed consultations, I may recommend reaching out to our manager for additional information.\n\nWhat is your name?",
+    "choose_lang": "Choose the language!",
+    "choose_lang_ok": "The language is set to Russian!",
+    "restart": "Context updated!",
+    "noTokens": "Out of tokens",
+    "largeContext": "Update the context!",
+    "noName": "No problem, you can remain incognito. Can you briefly tell me what brought you here?",
+    "tellAboutService": "Which specific services are you interested in?\n",
+    "freeAdvice": "I'm always at your service, ask me a question:",
+    "writeMe": "Nice to meet you, {}! Tell me in a few words, what brought you here? \n",
+    "getName": "Write your name:",
+    "getServices": "Write down which services you are interested in:"
+  },
+  "buts": {
+    "noName": "I don't want to tell my name",
+    "tellAboutService": "Tell me about your services",
+    "freeAdvice": "I want free advice!",
+    "writeMe": "Write name",
+    "writeProblem": "I wanted to ask about... [describe the problem]",
+    "digitalMarketing": "Digital Marketing",
+    "contentMarketing": "Content Marketing",
+    "webAndMobile": "Web or Mobile Development",
+    "resAndStrats": "Research and Strategies",
+    "otherServices": "Other Services [specify]",
+    "idk": "I don't know",
+    "mainMenu": "Back"
+  }
+}

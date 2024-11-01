@@ -1,0 +1,31 @@
+{
+  "text": {
+    "waitAnswer": "⌛",
+    "start_msg": "Hallo, mein Name ist Alex! Ich bin Ihr persönlicher Assistent vom Sales Solution-Team. Ich kann Ihre Fragen beantworten und Informationen zu unseren Dienstleistungen bereitstellen. Ich kann eine kurze Beschreibung jeder Dienstleistung geben, Beispiele für Erfolge unserer Kunden liefern und über unseren Arbeitsansatz sprechen. Wenn Sie spezifische Bedürfnisse oder Probleme haben, kann ich Ihnen helfen zu bestimmen, welche unserer Dienstleistungen für Ihr Unternehmen am nützlichsten sein könnten. Bei komplexeren Fragen oder detaillierten Beratungen empfehle ich jedoch, sich an unseren Manager für weitere Informationen zu wenden.\n\nWie ist Ihr Name?",
+    "choose_lang": "Wählen Sie die Sprache!",
+    "choose_lang_ok": "Die Sprache ist auf Russisch eingestellt!",
+    "restart": "Kontext aktualisiert!",
+    "noTokens": "Keine Tokens mehr",
+    "largeContext": "Kontext aktualisieren!",
+    "noName": "Kein Problem, Sie können inkognito bleiben. Können Sie mir kurz sagen, was Sie hierher gebracht hat?",
+    "tellAboutService": "An welchen spezifischen Dienstleistungen sind Sie interessiert?\n",
+    "freeAdvice": "Ich stehe Ihnen immer zur Verfügung, stellen Sie mir eine Frage:",
+    "writeMe": "Schön, Sie kennenzulernen, {}! Erzählen Sie mir in wenigen Worten, was Sie hierher gebracht hat? \n",
+    "getName": "Geben Sie Ihren Namen ein:",
+    "getServices": "Schreiben Sie, welche Dienstleistungen Sie interessieren:"
+  },
+  "buts": {
+    "noName": "Ich möchte meinen Namen nicht sagen",
+    "tellAboutService": "Erzählen Sie mir von Ihren Dienstleistungen",
+    "freeAdvice": "Ich möchte kostenlose Ratschläge!",
+    "writeMe": "Namen schreiben",
+    "writeProblem": "Ich wollte nachfragen wegen... [Beschreiben Sie das Problem]",
+    "digitalMarketing": "Digitales Marketing",
+    "contentMarketing": "Content Marketing",
+    "webAndMobile": "Web- oder Mobile Entwicklung",
+    "resAndStrats": "Forschung und Strategien",
+    "otherServices": "Andere Dienstleistungen [spezifizieren]",
+    "idk": "Ich weiß es nicht",
+    "mainMenu": "Zurück"
+  }
+}
